@@ -1,0 +1,15 @@
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixIn.deps.json
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixIn.runtimeconfig.json
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixIn.runtimeconfig.dev.json
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixIn.dll
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixIn.pdb
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.csproj.CoreCompileInputs.cache
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.RazorAssemblyInfo.cache
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.RazorAssemblyInfo.cs
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.AssemblyInfoInputs.cache
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.AssemblyInfo.cs
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.RazorTargetAssemblyInfo.cache
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.dll
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.pdb
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\bin\Debug\netcoreapp2.1\PixInSettings.json
+C:\Users\swikusb\Desktop\Learning\fss\PixIn\PixIn\obj\Debug\netcoreapp2.1\PixIn.csprojAssemblyReference.cache
